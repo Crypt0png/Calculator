@@ -1,4 +1,3 @@
-
 a = input('Select the calculator type(addition, multiplication, or subtraction): ')
 b = int(input('Enter the number of numbers that you need to perform operations with(up to 3): '))
 
