@@ -35,3 +35,15 @@ elif a == 'вычитание':
     print(number1 - number2)
   else:
     print('NO')
+elif a == 'деление':
+  if b == 3:
+    number1 = int(input('Введите первое число: '))
+    number2 = int(input('Введите второе число: '))
+    number3 = int(input('Введите третье число: '))
+  elif b == 2:
+    number1 = int(input('Введите первое число: '))
+    number2 = int(input('Введите второе число: '))
+    print(number1 % number2)
+  else:
+    print('NO')
+   
